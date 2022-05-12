@@ -1,2 +1,2 @@
 # hello-world
-Styarting my Tech adventure
+Starting my Tech adventure
